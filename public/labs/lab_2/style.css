@@ -20,7 +20,7 @@ body {
 /* || typography */
 
 h1, h2, h3 {
-  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Big Shoulders Display';
   color: #2a2a2a;
 }
 
@@ -60,12 +60,12 @@ p, li {
 }
 
 body > * {
-  background-color: red;
+  background-color: rgb(109, 211, 109);
   padding: 1%;
 }
 
 .main, .header, nav, .article, .aside, .footer, section {
-  background-color: rgba(0,255,0,0.5);
+  background-color: rgba(74, 253, 74, 0.966);
   padding: 1%;
 }
 
